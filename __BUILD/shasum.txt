@@ -1,0 +1,3 @@
+429a3e2a1b731df09565a111012c1b9ec57ff1ea  patches.img
+d27691df2566b2f911101f3dddd06c0a22da9e76  RESCUE32_original_DTA.img
+8d30982c691ce7142d1daa10174404056cdaf490  RESCUE32_patched.img
